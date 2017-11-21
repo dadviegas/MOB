@@ -1,0 +1,25 @@
+{
+  "name": "mob",
+  "version": "0.0.0",
+  "description": "Module Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadviegas/MOB.git"
+  },
+  "keywords": [
+    "Mob"
+  ],
+  "author": "dadviegas@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dadviegas/MOB/issues"
+  },
+  "homepage": "https://github.com/dadviegas/MOB#readme",
+  "dependencies": {
+    "mblock-webpack": "^1.0.2"
+  }
+}
